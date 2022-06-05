@@ -1,19 +1,19 @@
 {
-    "image": "assets/me-about.jpg",
+    "image": "assets/me/me-about.jpg",
     "about": [{
             "image": "fa-solid fa-award",
             "name": "Experience",
-            "description": "3+ years"
+            "description": "1+ years"
         },
         {
             "image": "fa-solid fa-user-group",
             "name": "Client",
-            "description": "200+ clients"
+            "description": "8+ clients"
         },
         {
             "image": "fa-solid fa-folder",
             "name": "Projects",
-            "description": "80+ projects"
+            "description": "3+ projects"
         }
     ],
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto error accusantium alias laborum earum fuga facilis ut, exercitationem quis deserunt mollitia! Blanditiis, impedit consequuntur? Repudiandae fugiat ipsam quisquam facilis laboriosam."

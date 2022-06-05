@@ -1,24 +1,31 @@
 {
     "portfolio": [{
             "id": 1,
-            "image": "/assets/portfolio1.jpg",
-            "title": "Title 1",
-            "github": "https://github.com",
-            "demo": "https://github.com"
+            "image": "/assets/portfolio/studio.jpg",
+            "title": "Mobile Application Studio Management",
+            "github": "https://github.com/sythai263/AndroidQuanLyStudio",
+            "demo": "https://github.com/sythai263/AndroidQuanLyStudio"
         },
         {
             "id": 2,
-            "image": "/assets/portfolio2.jpg",
-            "title": "Title 3",
-            "github": "https://github.com",
-            "demo": "https://github.com"
+            "image": "/assets/portfolio/web-studio.jpg",
+            "title": "Web Application Studio Management",
+            "github": "https://github.com/sythai263/Studio",
+            "demo": "https://github.com/sythai263/Studio"
         },
         {
             "id": 3,
-            "image": "/assets/portfolio3.jpg",
-            "title": "Title 3",
-            "github": "https://github.com",
-            "demo": "https://github.com"
+            "image": "/assets/portfolio/musreview.jpg",
+            "title": "Web Review Product",
+            "github": "https://github.com/sythai263/MusReview",
+            "demo": "https://github.com/sythai263/MusReview"
+        },
+        {
+            "id": 3,
+            "image": "/assets/portfolio/antd.png",
+            "title": "Module: Workload of O-Geek",
+            "github": "https://github.com/",
+            "demo": "https://github.com/"
         }
     ]
 }

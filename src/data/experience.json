@@ -25,6 +25,16 @@
                 "name": "NestJS",
                 "level": "Experience",
                 "image": "devicon-nestjs-plain colored"
+            },
+            {
+                "name": "Docker",
+                "level": "Experience",
+                "image": "devicon-docker-plain-wordmark colored"
+            },
+            {
+                "name": "Ubuntu",
+                "level": "Experience",
+                "image": "devicon-ubuntu-plain colored"
             }
         ]
     },
@@ -49,6 +59,16 @@
                 "name": "Jquery",
                 "level": "Experience",
                 "image": "devicon-jquery-plain colored"
+            },
+            {
+                "name": "Git",
+                "level": "Experience",
+                "image": "devicon-git-plain colored"
+            },
+            {
+                "name": "Android",
+                "level": "Experience",
+                "image": "devicon-android-plain-wordmark colored"
             }
         ]
     }

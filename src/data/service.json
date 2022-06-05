@@ -1,31 +1,27 @@
 {
     "services": [{
-            "name": "UI/UX Design",
+            "name": "Mobile App",
             "descriptions": [
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "Build API for Mobile App",
+                "Implement UI",
+                "Design UI"
             ]
         },
         {
-            "name": "Web Development",
+            "name": "Backend Development",
             "descriptions": [
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "Build API for mobile/web",
+                "Maintenance web server",
+                "Build server deploy app",
+                "Analysis"
             ]
         },
         {
-            "name": "Content Creation",
+            "name": "Frontend Development",
             "descriptions": [
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "Implement UI",
+                "Design UI",
+                "Maintenance app"
             ]
         }
     ]
