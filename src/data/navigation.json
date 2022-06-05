@@ -1,0 +1,36 @@
+[{
+        "id": "header",
+        "meta": "home",
+        "section": "Home"
+    },
+    {
+        "id": "about",
+        "meta": "Get to know",
+        "section": "About me"
+    },
+    {
+        "id": "experience",
+        "meta": "What skills i have",
+        "section": "Experience"
+    },
+    {
+        "id": "services",
+        "meta": "What i offer",
+        "section": "Services"
+    },
+    {
+        "id": "portfolio",
+        "meta": "My recent work",
+        "section": "Portfolio"
+    },
+    {
+        "id": "testimonials",
+        "meta": "Review from client",
+        "section": "Testimonials"
+    },
+    {
+        "id": "contact",
+        "meta": "Get in touch",
+        "section": "Contact"
+    }
+]

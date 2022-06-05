@@ -1,0 +1,22 @@
+[{
+        "icon": "fa-solid fa-phone",
+        "name": "Phone",
+        "display": "(+84) 984 786 432",
+        "link": "tel:+84.984.786.432",
+        "cta": "Call me"
+    },
+    {
+        "icon": "fa-brands fa-facebook-messenger",
+        "name": "Messenger",
+        "display": "Thái Thánh Thiện",
+        "link": "https://m.me/sythai263",
+        "cta": "Messenger"
+    },
+    {
+        "icon": "fa-solid fa-envelope",
+        "name": "Email",
+        "display": "sythai263.contact@mail.com",
+        "link": "mailto:sythai263.contact@mail.com",
+        "cta": "Send Email"
+    }
+]

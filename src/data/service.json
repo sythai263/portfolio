@@ -1,0 +1,32 @@
+{
+    "services": [{
+            "name": "UI/UX Design",
+            "descriptions": [
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            ]
+        },
+        {
+            "name": "Web Development",
+            "descriptions": [
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            ]
+        },
+        {
+            "name": "Content Creation",
+            "descriptions": [
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            ]
+        }
+    ]
+}

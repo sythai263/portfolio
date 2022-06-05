@@ -1,0 +1,25 @@
+{
+    "meta": "Review from client",
+    "section": "Testimonials",
+    "testimonials": [{
+            "avatar": "assets/avatar1.jpg",
+            "name": "Tina Snow 1",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, tempora quo consequuntur in, non officiis excepturi eos id impedit ab debitis atque placeat et laudantium asperiores reprehenderit sequi labore! Aut!"
+        },
+        {
+            "avatar": "assets/avatar2.jpg",
+            "name": "Tina Snow 2",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, tempora quo consequuntur in, non officiis excepturi eos id impedit ab debitis atque placeat et laudantium asperiores reprehenderit sequi labore! Aut!"
+        },
+        {
+            "avatar": "assets/avatar3.jpg",
+            "name": "Tina Snow 3",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, tempora quo consequuntur in, non officiis excepturi eos id impedit ab debitis atque placeat et laudantium asperiores reprehenderit sequi labore! Aut!"
+        },
+        {
+            "avatar": "assets/avatar4.jpg",
+            "name": "Tina Snow 4",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, tempora quo consequuntur in, non officiis excepturi eos id impedit ab debitis atque placeat et laudantium asperiores reprehenderit sequi labore! Aut!"
+        }
+    ]
+}

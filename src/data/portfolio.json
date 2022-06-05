@@ -1,0 +1,24 @@
+{
+    "portfolio": [{
+            "id": 1,
+            "image": "/assets/portfolio1.jpg",
+            "title": "Title 1",
+            "github": "https://github.com",
+            "demo": "https://github.com"
+        },
+        {
+            "id": 2,
+            "image": "/assets/portfolio2.jpg",
+            "title": "Title 3",
+            "github": "https://github.com",
+            "demo": "https://github.com"
+        },
+        {
+            "id": 3,
+            "image": "/assets/portfolio3.jpg",
+            "title": "Title 3",
+            "github": "https://github.com",
+            "demo": "https://github.com"
+        }
+    ]
+}
